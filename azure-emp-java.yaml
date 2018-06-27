@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: azure-emp-java
-        image: cltacr.azurecr.io/myapp
+        image: vkacr.azurecr.io/empapp
         ports:
         - containerPort: 8080
                

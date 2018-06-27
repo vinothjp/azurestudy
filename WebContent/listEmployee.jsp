@@ -9,7 +9,7 @@
 <title>Employees Details</title>
 </head>
 <body>
-	<h3>Employees Details of All Microsoft Inc.</h3>
+	<h3>Employees Details of All Qtech Inc.</h3>
 	<table border=1>
 		<thead>
 			<tr>
